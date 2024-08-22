@@ -3,11 +3,11 @@
   "description": "A battery-style chart visualization",
   "resources": {
     "js": [
-      "https://your-username.github.io/battery-chart-visualization/battery-chart.js"
+      "https://storage.googleapis.com/battery-chart/battery-chart.js"
     ],
     "css": [
-      "https://your-username.github.io/battery-chart-visualization/battery-chart.css"
+      "https://storage.googleapis.com/battery-chart/battery-chart.css"
     ],
-    "html": "https://your-username.github.io/battery-chart-visualization/battery-chart.html"
+    "html": "https://storage.googleapis.com/battery-chart/battery-chart.html"
   }
 }
